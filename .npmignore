@@ -1,0 +1,46 @@
+# Development files
+test/
+*.test.js
+.github/
+.vscode/
+.idea/
+
+# Git
+.git/
+.gitignore
+
+# Documentation (keep README.md)
+docs/
+*.md
+!README.md
+
+# Environment
+.env
+.env.*
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+Thumbs.db
+
+# Local Patrick data
+.patrick/
+.patrick-logs/
+
+# Build artifacts
+coverage/
+.nyc_output/
+
+# Misc
+.cache/
+tmp/
+temp/
+*.swp
+*.swo
+*~
