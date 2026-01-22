@@ -176,17 +176,13 @@ The Patrick Push Protocol challenges core assumptions in AI development:
 
 ### Patrick vs Ralph
 
-| Aspect | Ralph Wiggum | Patrick Star |
+| Patrick Star |
 |--------|--------------|--------------|
-| **Approach** | Same prompt, iterate | Different approaches, no analysis |
-| **Speed** | Methodical | Fast |
-| **Philosophy** | Persistence | Anti-intelligence |
-| **Use Case** | Long builds, features | Quick fixes, debugging |
-| **Core Loop** | `while :; do prompt \| claude ; done` | `while unsolved; do try_dumb() ; done` |
-
-They're complementary:
-- **Ralph** = Persistent iteration
-- **Patrick** = Fast stupidity
+| **Approach** | Different approaches, no analysis |
+| **Speed** | Fast |
+| **Philosophy** | Anti-intelligence |
+| **Use Case** | Quick fixes, debugging |
+| **Core Loop** | `while unsolved; do try_dumb() ; done` |
 
 ## Real Examples
 
@@ -250,7 +246,7 @@ Coming soon: $PATRICK token holders get:
 
 ## The Origin Story
 
-In [DATE], **Firestorm** was debugging with Claude. Hours of careful analysis wasn't helping.
+**Firestorm** was debugging with Claude. Hours of careful analysis wasn't helping.
 
 Frustrated, he thought: *"What if I told it to stop thinking so hard?"*
 
@@ -292,6 +288,6 @@ $PATRICK is a memecoin celebrating the Patrick Push Protocol. This is experiment
 
 `while :; do try_dumb_solution() ; done`
 
-Made with 🌟 by developers who just try stuff
+Made with 🌟 by a developer who just try stuff
 
 </div>
