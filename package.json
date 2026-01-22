@@ -1,0 +1,48 @@
+{
+  "name": "patrick-push",
+  "version": "1.0.0",
+  "description": "The Patrick Push Protocol - What if we made Claude DUMBER on purpose? Anti-intelligence AI that solves problems faster.",
+  "main": "src/patrick.js",
+  "bin": {
+    "patrick": "./bin/patrick.js"
+  },
+  "scripts": {
+    "test": "node test/patrick.test.js",
+    "start": "node bin/patrick.js",
+    "postinstall": "node scripts/welcome.js"
+  },
+  "keywords": [
+    "ai",
+    "claude",
+    "anthropic",
+    "cli",
+    "patrick",
+    "spongebob",
+    "automation",
+    "anti-intelligence",
+    "dumb-ai",
+    "developer-tools",
+    "coding-assistant",
+    "patrick-push-protocol"
+  ],
+  "author": "Firestorm <firestorm@patrickcoin.org>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/firestorm/patrick-push.git"
+  },
+  "bugs": {
+    "url": "https://github.com/firestorm/patrick-push/issues"
+  },
+  "homepage": "https://patrickcoin.org",
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "preferGlobal": true,
+  "funding": {
+    "type": "token",
+    "url": "https://patrickcoin.org"
+  }
+}
