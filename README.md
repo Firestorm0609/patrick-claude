@@ -174,15 +174,13 @@ The Patrick Push Protocol challenges core assumptions in AI development:
 3. **Speed beats perfection** - Shipping > Optimizing
 4. **Action bias wins** - Try first, think later
 
-### Patrick vs Ralph
+### Patrick Claude
 
-| Patrick Star |
-|--------|--------------|--------------|
-| **Approach** | Different approaches, no analysis |
-| **Speed** | Fast |
-| **Philosophy** | Anti-intelligence |
-| **Use Case** | Quick fixes, debugging |
-| **Core Loop** | `while unsolved; do try_dumb() ; done` |
+**Approach:** *Different approaches, no analysis*
+**Speed:** *Fast*
+**Philosophy:** *Anti-intelligence*
+**Use Case:** *Quick fixes, debugging*
+**Core Loop:**  `while unsolved; do try_dumb() ; done`
 
 ## Real Examples
 
