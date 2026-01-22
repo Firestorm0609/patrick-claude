@@ -177,9 +177,13 @@ The Patrick Push Protocol challenges core assumptions in AI development:
 ### Patrick Claude
 
 **Approach:** *Different approaches, no analysis*
+
 **Speed:** *Fast*
+
 **Philosophy:** *Anti-intelligence*
+
 **Use Case:** *Quick fixes, debugging*
+
 **Core Loop:**  `while unsolved; do try_dumb() ; done`
 
 ## Real Examples
